@@ -29,6 +29,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
 </mdclass:Configuration>
