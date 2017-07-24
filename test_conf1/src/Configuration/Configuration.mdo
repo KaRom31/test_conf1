@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="30eddc2d-4f74-4554-be43-8a020d03919e">
+  <name>test_conf1</name>
+  <synonym>
+    <key>ru</key>
+    <value>Test conf1</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4199a697-61d3-49b8-bf65-e71a753005a3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e04aad1b-1bf5-4981-90dd-eef09aab56e9"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="48c684d3-fec0-42dd-8b5b-c83204e603eb"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="3a84f824-8869-4aad-b2f2-71dce8fc9b6d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="1666fa25-821b-456d-8651-66a8d4ccc22f"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="1ff1243a-4a41-4d82-9f90-cb00d2e28870"/>
+  <configurationExtensionCompatibilityMode>8.3.9</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.9</compatibilityMode>
+  <languages uuid="e8db91de-1c6a-4f79-947c-5a5ab9d1163f">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
